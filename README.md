@@ -36,7 +36,7 @@ throttle controller which is depends on two values P and D. In case when the Int
 
 In order to automatically fine tune the parameters, an optimization algorithm the Twiddle can be used. I implemented it for tuning the steering controller but the convergence was not so fast.
 
-Demo: speedy drive, which is targeting for driving the car as fast as possible, but as a side effect, the car starts to swing. In order to make the car drive fast as well as steady, further joint parameter tuning for both PID controllers need to be carried out.
+[Demo video](https://www.youtube.com/watch?v=a9uvZ4U3BUA)
 
 ## Summary
 As video shows, the vehicle can successfully drive a many laps around the track. The project very good visualize and give "feeling" about of each component of the PID controller.
