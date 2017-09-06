@@ -1,7 +1,5 @@
 # CarND-Controls-PID
 
----
-
 ## Introduction
 A proportional–integral–derivative controller (PID controller) is a control loop feedback mechanism (controller) commonly used in industrial control systems. In this case the PID controller is used to control a vehicle steering according to cross track error (cte) provided by udacity simulator.
 
