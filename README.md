@@ -41,6 +41,7 @@ In order to automatically fine tune the parameters, an optimization algorithm th
 ## Summary
 As video shows, the vehicle can successfully drive a many laps around the track. The project very good visualize and give "feeling" about of each component of the PID controller.
 It was interesting to compare the results with a similar past project the Behavioral cloning when the car was controlled by CNN.
+
 ## Dependencies
 
 * cmake >= 3.5
